@@ -11,9 +11,10 @@ cf = configparser.ConfigParser()
 cf.read("config.ini", encoding="utf-8")
 chrome_driver_path = cf['DEFAULT']['CHROME_DRIVER_PATH']
 save_path = cf['DEFAULT']['SAVE_PATH']
+download_list = cf['DEFAULT']['DOWNLOAD_LIST']
 
 # 검색할 url 불러오기
-with open("download_list", "r") as r:
+with open(download_list, "r") as r:
     url_list = r.readlines()
 
 print(url_list)
