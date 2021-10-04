@@ -30,8 +30,6 @@ for url in url_list:
     # 파싱 시작
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
-    with open("save.html", "w", encoding="utf-8") as w:
-        w.write(html)
 
     # 저장 경로 설정
     # pdf 문서의 제목 파싱
