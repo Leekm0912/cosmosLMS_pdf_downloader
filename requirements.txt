@@ -1,3 +1,4 @@
 urllib
 bs4
 selenium
+img2pdf
