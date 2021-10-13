@@ -72,6 +72,9 @@ DOWNLOAD_LIST = ./download_list
     
     ⇒ 웹 자동화 관련 라이브러리
     
+- img2pdf
+    ⇒ 다운로드 받은 이미지를 pdf 파일로 변환시 사용.
+    
 
 ## 한번에 설치 → `pip3 install -r requirements.txt`
 
