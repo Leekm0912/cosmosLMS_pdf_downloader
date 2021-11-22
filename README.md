@@ -10,7 +10,7 @@ cosmos LMS에 올라와있는 pdf 이미지를 자동으로 다운로드 받아�
 우측상단 ... 클릭 -> 도움말 -> Chrome정보
 
 ### 크롬 드라이버 다운로드
-[https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+[https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)
 
 ## ✓ download_list 파일 작성
 
